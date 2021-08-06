@@ -1,0 +1,496 @@
+.gitignore
+audio/normal_final_mixdown.mp3
+audio/normal_final_mixdown_source.mp3
+audio/sick_final_mixdown.mp3
+audio/source/normal_final_mixdown_source.mp3
+audio/v2/abnormal/crowd_abnormal.mp3
+audio/v2/abnormal/crowd_abnormal.xlsx
+audio/v2/abnormal/crowd_normal.mp3
+audio/v2/abnormal/crowd_normal.mp3.xlsx
+audio/v2/human/crowd_enviornment-speaking.mp3
+audio/v2/human/crowd_enviornment-speaking.xlsx
+audio/v2/human/crowd_normal.mp3
+audio/v2/human/crowd_normal.mp3.xlsx
+audio/v2/sick-v2/audio-quality/bitrate.csv
+audio/v2/sick-v2/audio-quality/bitrate.xlsx
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_112.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_128.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_144.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_16.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_160.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_24.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_32.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_40.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_48.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_56.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_64.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_8.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_80.mp3
+audio/v2/sick-v2/audio-quality/bitrate/crowd_normal_96.mp3
+audio/v2/sick-v2/audio-quality/samplerate.csv
+audio/v2/sick-v2/audio-quality/samplerate.xlsx
+audio/v2/sick-v2/audio-quality/samplerate/crowd_normal_11025.mp3
+audio/v2/sick-v2/audio-quality/samplerate/crowd_normal_16000.mp3
+audio/v2/sick-v2/audio-quality/samplerate/crowd_normal_22050.mp3
+audio/v2/sick-v2/audio-quality/samplerate/crowd_normal_32000.mp3
+audio/v2/sick-v2/audio-quality/samplerate/crowd_normal_44100.mp3
+audio/v2/sick-v2/audio-quality/samplerate/crowd_normal_8000.mp3
+audio/v2/sick-v2/crowd_normal.mp3
+audio/v2/sick-v2/crowd_sick.mp3
+audio/v2/sick-v2/crowd_sick.xlsx
+audio/v2/sick-v2/crowd_sick_v2.xlsx
+audio/v2/sick-v2/sick_original.mp3
+audio/v2/sick-v2/sick_original_clean.mp3
+audio/v2/sick/crowd_normal.mp3
+audio/v2/sick/normal_final_mixdown_source.mp3
+audio/v2/sick/sick_final_mixdown.mp3
+audio/v2/sick/sick_original.mp3
+normal video/images/VIDEO0129.mp4
+normal video/images/VIDEO0130.mp4
+normal video/images/VIDEO0131.mp4
+normal video/images/croped/BW2.jpg
+normal video/images/croped/BW2_marked.jpg
+normal video/images/croped/BW2_marked.psd
+normal video/images/croped/bw.jpg
+normal video/images/croped/img1_g.jpg
+normal video/images/croped/img2_g.jpg
+normal video/images/croped/img_diff.jpg
+normal video/images/croped/img_g.jpg
+normal video/images/croped/out13.bmp
+normal video/images/croped/out14.bmp
+normal video/images/croped/out15.bmp
+normal video/images/croped/out44.bmp
+normal video/images/extract/out1.bmp
+normal video/images/extract/out10.bmp
+normal video/images/extract/out11.bmp
+normal video/images/extract/out12.bmp
+normal video/images/extract/out13.bmp
+normal video/images/extract/out14.bmp
+normal video/images/extract/out15.bmp
+normal video/images/extract/out16.bmp
+normal video/images/extract/out17.bmp
+normal video/images/extract/out18.bmp
+normal video/images/extract/out19.bmp
+normal video/images/extract/out2.bmp
+normal video/images/extract/out20.bmp
+normal video/images/extract/out21.bmp
+normal video/images/extract/out22.bmp
+normal video/images/extract/out23.bmp
+normal video/images/extract/out24.bmp
+normal video/images/extract/out25.bmp
+normal video/images/extract/out26.bmp
+normal video/images/extract/out27.bmp
+normal video/images/extract/out28.bmp
+normal video/images/extract/out29.bmp
+normal video/images/extract/out3.bmp
+normal video/images/extract/out30.bmp
+normal video/images/extract/out31.bmp
+normal video/images/extract/out32.bmp
+normal video/images/extract/out33.bmp
+normal video/images/extract/out34.bmp
+normal video/images/extract/out35.bmp
+normal video/images/extract/out36.bmp
+normal video/images/extract/out37.bmp
+normal video/images/extract/out38.bmp
+normal video/images/extract/out39.bmp
+normal video/images/extract/out4.bmp
+normal video/images/extract/out40.bmp
+normal video/images/extract/out41.bmp
+normal video/images/extract/out42.bmp
+normal video/images/extract/out43.bmp
+normal video/images/extract/out44.bmp
+normal video/images/extract/out45.bmp
+normal video/images/extract/out46.bmp
+normal video/images/extract/out47.bmp
+normal video/images/extract/out48.bmp
+normal video/images/extract/out49.bmp
+normal video/images/extract/out5.bmp
+normal video/images/extract/out50.bmp
+normal video/images/extract/out51.bmp
+normal video/images/extract/out52.bmp
+normal video/images/extract/out53.bmp
+normal video/images/extract/out54.bmp
+normal video/images/extract/out55.bmp
+normal video/images/extract/out56.bmp
+normal video/images/extract/out6.bmp
+normal video/images/extract/out7.bmp
+normal video/images/extract/out8.bmp
+normal video/images/extract/out9.bmp
+normal video/images/ffmpeg command.txt
+normal/IMAG2733.jpg
+normal/IMAG2734.jpg
+normal/IMAG2735.jpg
+normal/IMAG2736.jpg
+normal/IMG_0017.JPG
+normal/IMG_0018.JPG
+normal/IMG_0019.JPG
+normal/IMG_0020.JPG
+normal/IMG_0021.JPG
+normal/IMG_0022.JPG
+normal/IMG_0023.JPG
+normal/IMG_0024.JPG
+normal/IMG_0025.JPG
+normal/IMG_0026.JPG
+normal/IMG_0027.JPG
+normal/IMG_0028.JPG
+normal/IMG_0029.JPG
+normal/IMG_0030.JPG
+normal/IMG_0031.JPG
+normal/IMG_0032.JPG
+normal/IMG_0033.JPG
+normal/IMG_0034.JPG
+normal/IMG_0035.JPG
+normal/IMG_0036.JPG
+normal/IMG_0037.JPG
+normal/IMG_0038.JPG
+normal/IMG_0039.JPG
+normal/IMG_0040.JPG
+normal/IMG_0041.JPG
+normal/IMG_0042.JPG
+normal/IMG_0043.JPG
+normal/IMG_0044.JPG
+normal/IMG_0045.JPG
+normal/IMG_0046.JPG
+normal/IMG_0047.JPG
+normal/IMG_0048.JPG
+normal/IMG_0049.JPG
+normal/IMG_0050.JPG
+normal/IMG_0051.JPG
+normal/IMG_0052.JPG
+normal/IMG_0053.JPG
+normal/IMG_0054.JPG
+normal/IMG_0055.JPG
+normal/IMG_0056.JPG
+normal/IMG_0057.JPG
+normal/IMG_0058.JPG
+normal/IMG_0059.JPG
+normal/IMG_0060.JPG
+normal/IMG_0061.JPG
+normal/IMG_0062.JPG
+normal/IMG_0063.JPG
+normal/IMG_0064.JPG
+normal/IMG_0065.JPG
+normal/IMG_0066.JPG
+normal/IMG_0067.JPG
+normal/IMG_0068.JPG
+normal/IMG_0069.JPG
+normal/IMG_0070.JPG
+normal/IMG_0071.JPG
+normal/IMG_0072.JPG
+normal/IMG_0073.JPG
+normal/IMG_0074.JPG
+normal/IMG_0075.JPG
+normal/IMG_0220.JPG
+normal/IMG_0221.JPG
+normal/IMG_0222.JPG
+normal/IMG_0223.JPG
+normal/IMG_0224.JPG
+normal/IMG_0225.JPG
+normal/IMG_0226.JPG
+normal/IMG_0227.JPG
+normal/IMG_0228.JPG
+normal/IMG_0229.JPG
+normal/IMG_0230.JPG
+normal/IMG_0231.JPG
+normal/IMG_0232.JPG
+normal/IMG_0233.JPG
+normal/IMG_0234.JPG
+normal/IMG_0235.JPG
+normal/IMG_0236.JPG
+normal/IMG_0237.JPG
+normal/IMG_0238.JPG
+normal/IMG_0239.JPG
+normal/IMG_0240.JPG
+normal/IMG_0241.JPG
+normal/IMG_0242.JPG
+normal/IMG_0243.JPG
+normal/IMG_0244.JPG
+normal/IMG_0245.JPG
+normal/IMG_0246.JPG
+normal/IMG_0247.JPG
+normal/IMG_0248.JPG
+normal/IMG_0249.JPG
+normal/IMG_0250.JPG
+normal/IMG_0251.JPG
+normal/IMG_0252.JPG
+normal/IMG_0253.JPG
+normal/IMG_0254.JPG
+normal/IMG_0255.JPG
+normal/IMG_0256.JPG
+normal/IMG_0257.JPG
+normal/IMG_0258.JPG
+normal/IMG_0259.JPG
+normal/IMG_0260.JPG
+normal/IMG_0261.JPG
+normal/IMG_0262.JPG
+normal/IMG_0263.JPG
+normal/IMG_0264.JPG
+normal/IMG_0265.JPG
+normal/IMG_0266.JPG
+normal/IMG_0267.JPG
+normal/IMG_0268.JPG
+normal/IMG_0269.JPG
+normal/IMG_0270.JPG
+normal/IMG_0271.JPG
+normal/IMG_0272.JPG
+normal/IMG_0273.JPG
+normal/IMG_0274.JPG
+normal/IMG_0275.JPG
+normal/IMG_0276.JPG
+normal/IMG_0277.JPG
+normal/IMG_0278.JPG
+normal/IMG_0279.JPG
+normal/IMG_0280.JPG
+normal/IMG_0281.JPG
+normal/IMG_0282.JPG
+normal/IMG_0283.JPG
+normal/IMG_0284.JPG
+normal/IMG_0285.JPG
+normal/IMG_0286.JPG
+normal/IMG_0287.JPG
+normal/IMG_0288.JPG
+normal/IMG_0289.JPG
+normal/IMG_0290.JPG
+normal/IMG_0291.JPG
+normal/IMG_0292.JPG
+normal/IMG_0293.JPG
+normal/IMG_0294.JPG
+normal/IMG_0295.JPG
+normal/IMG_0296.JPG
+normal/IMG_0297.JPG
+normal/IMG_0298.JPG
+normal/IMG_0299.JPG
+normal/IMG_0300.JPG
+normal/IMG_0301.JPG
+normal/IMG_0302.JPG
+normal/IMG_0303.JPG
+normal/IMG_0304.JPG
+normal/IMG_0305.JPG
+normal/IMG_0306.JPG
+normal/IMG_0307.JPG
+normal/IMG_0308.JPG
+normal/IMG_0309.JPG
+normal/IMG_0310.JPG
+normal/IMG_0311.JPG
+normal/IMG_0312.JPG
+normal/IMG_0313.JPG
+normal/IMG_0314.JPG
+normal/IMG_0315.JPG
+normal/IMG_0316.JPG
+normal/IMG_0317.JPG
+normal/IMG_0318.JPG
+normal/IMG_0319.JPG
+normal/IMG_0320.JPG
+normal/IMG_0321.JPG
+normal/IMG_0322.JPG
+normal/IMG_0323.JPG
+selected/IMG_0017.JPG
+selected/IMG_0064.JPG
+selected/top3.JPG
+selected/top4.JPG
+selected/top_view.jpg
+sick/IMG_0079.JPG
+sick/IMG_0080.JPG
+sick/IMG_0081.JPG
+sick/IMG_0082.JPG
+sick/IMG_0083.JPG
+sick/IMG_0084.JPG
+sick/IMG_0085.JPG
+sick/IMG_0086.JPG
+sick/IMG_0087.JPG
+sick/IMG_0088.JPG
+sick/IMG_0089.JPG
+sick/IMG_0090.JPG
+sick/IMG_0091.JPG
+sick/IMG_0092.JPG
+sick/IMG_0093.JPG
+sick/IMG_0094.JPG
+sick/IMG_0095.JPG
+sick/IMG_0096.JPG
+sick/IMG_0097.JPG
+sick/IMG_0098.JPG
+sick/IMG_0099.JPG
+sick/IMG_0100.JPG
+sick/IMG_0101.JPG
+sick/IMG_0102.JPG
+sick/IMG_0103.JPG
+sick/IMG_0104.JPG
+sick/IMG_0105.JPG
+sick/IMG_0106.JPG
+sick/IMG_0107.JPG
+sick/IMG_0108.JPG
+sick/IMG_0109.JPG
+sick/IMG_0110.JPG
+sick/IMG_0111.JPG
+sick/IMG_0112.JPG
+sick/IMG_0113.JPG
+sick/IMG_0114.JPG
+sick/IMG_0115.JPG
+sick/IMG_0116.JPG
+sick/IMG_0117.JPG
+sick/IMG_0118.JPG
+sick/IMG_0119.JPG
+sick/IMG_0120.JPG
+sick/IMG_0121.JPG
+sick/IMG_0122(1).JPG
+sick/IMG_0122.JPG
+sick/IMG_0123.JPG
+sick/IMG_0124.JPG
+sick/IMG_0125(1).JPG
+sick/IMG_0125.JPG
+sick/IMG_0126(1).JPG
+sick/IMG_0126.JPG
+sick/IMG_0127(1).JPG
+sick/IMG_0127.JPG
+sick/IMG_0128(1).JPG
+sick/IMG_0128.JPG
+sick/IMG_0129(1).JPG
+sick/IMG_0129.JPG
+sick/IMG_0130(1).JPG
+sick/IMG_0130.JPG
+sick/IMG_0131(1).JPG
+sick/IMG_0131.JPG
+sick/IMG_0132(1).JPG
+sick/IMG_0132.JPG
+sick/IMG_0133.JPG
+sick/IMG_0134(1).JPG
+sick/IMG_0134.JPG
+sick/IMG_0135.JPG
+sick/IMG_0136(1).JPG
+sick/IMG_0136.JPG
+sick/IMG_0137.JPG
+sick/IMG_0138(1).JPG
+sick/IMG_0138.JPG
+sick/IMG_0139.JPG
+sick/IMG_0140(1).JPG
+sick/IMG_0140.JPG
+sick/IMG_0141.JPG
+sick/IMG_0142(1).JPG
+sick/IMG_0142.JPG
+sick/IMG_0143.JPG
+sick/IMG_0144.JPG
+sick/IMG_0145.JPG
+sick/IMG_0146.JPG
+sick/IMG_0147.JPG
+sick/IMG_0148.JPG
+sick/IMG_0149.JPG
+sick/IMG_0150.JPG
+sick/IMG_0151.JPG
+sick/IMG_0152.JPG
+sick/IMG_0153.JPG
+sick/IMG_0154.JPG
+sick/IMG_0155.JPG
+sick/IMG_0156.JPG
+sick/IMG_0157.JPG
+sick/IMG_0158.JPG
+sick/IMG_0159.JPG
+sick/IMG_0160.JPG
+sick/IMG_0161.JPG
+sick/IMG_0162.JPG
+sick/IMG_0163.JPG
+sick/IMG_0164.JPG
+sick/IMG_0165.JPG
+sick/IMG_0166.JPG
+sick/IMG_0167.JPG
+sick/IMG_0168.JPG
+sick/IMG_0169.JPG
+sick/IMG_0170.JPG
+sick/IMG_0171.JPG
+sick/IMG_0172.JPG
+sick/IMG_0173.JPG
+sick/IMG_0174.JPG
+sick/IMG_0175.JPG
+sick/IMG_0176.JPG
+sick/IMG_0177.JPG
+sick/IMG_0178.JPG
+sick/IMG_0179.JPG
+sick/IMG_0180.JPG
+sick/IMG_0181.JPG
+sick/IMG_0182.JPG
+sick/IMG_0183.JPG
+sick/IMG_0184.JPG
+sick/IMG_0185.JPG
+sick/IMG_0186.JPG
+sick/IMG_0187.JPG
+sick/IMG_0188.JPG
+sick/IMG_0189.JPG
+sick/IMG_0190.JPG
+sick/IMG_0191.JPG
+sick/IMG_0192.JPG
+sick/IMG_0193.JPG
+sick/IMG_0194.JPG
+sick/IMG_0195.JPG
+sick/IMG_0196.JPG
+sick/IMG_0197.JPG
+sick/IMG_0198.JPG
+sick/IMG_0199.JPG
+sick/IMG_0200.JPG
+sick/IMG_0201.JPG
+sick/IMG_0202.JPG
+sick/IMG_0203.JPG
+sick/IMG_0204.JPG
+sick/IMG_0205.JPG
+sick/IMG_0206.JPG
+sick/IMG_0207.JPG
+sick/IMG_0208.JPG
+sick/IMG_0209.JPG
+sick/IMG_0210(1).JPG
+sick/IMG_0210.JPG
+sick/IMG_0211(1).JPG
+sick/IMG_0211.JPG
+sick/IMG_0212.JPG
+sick/IMG_0213(1).JPG
+sick/IMG_0213.JPG
+sick/IMG_0214(1).JPG
+sick/IMG_0214.JPG
+sick/IMG_0215.JPG
+sick/IMG_0216(1).JPG
+sick/IMG_0216.JPG
+sick/IMG_0217(1).JPG
+sick/IMG_0217.JPG
+sick/IMG_0218(1).JPG
+sick/IMG_0218.JPG
+sick/IMG_0219.JPG
+sickvideo/exp_normal_1.mp3
+sickvideo/exp_normal_3.mp3
+sickvideo/exp_normal_4.mp3
+sickvideo/exp_normal_5.mp3
+sickvideo/exp_sick_1.mp3
+sickvideo/exp_sick_2.mp3
+sickvideo/exp_sick_3.mp3
+sickvideo/exp_sick_4.mp3
+sickvideo/normal_final/Conformed Files/exp_normal_1 48000 1.pkf
+sickvideo/normal_final/Conformed Files/exp_normal_1 48000 1.wav
+sickvideo/normal_final/Conformed Files/exp_normal_2 48000 1.pkf
+sickvideo/normal_final/Conformed Files/exp_normal_2 48000 1.wav
+sickvideo/normal_final/Conformed Files/exp_normal_3 48000 1.wav
+sickvideo/normal_final/Conformed Files/exp_normal_4 48000 1.pkf
+sickvideo/normal_final/Conformed Files/exp_normal_4 48000 1.wav
+sickvideo/normal_final/Conformed Files/exp_normal_5 48000 1.pkf
+sickvideo/normal_final/Conformed Files/exp_normal_5 48000 1.wav
+sickvideo/normal_final/normal_final.sesx
+sickvideo/normal_final_mixdown.mp3
+sickvideo/normal_merge_1/Conformed Files/normal_1 44100 1 48000 1.pkf
+sickvideo/normal_merge_1/Conformed Files/normal_1 44100 1 48000 1.wav
+sickvideo/normal_merge_1/Conformed Files/normal_1 44100 1.pkf
+sickvideo/normal_merge_1/Conformed Files/normal_1 44100 1.wav
+sickvideo/normal_merge_1/Conformed Files/normal_2 44100 1 48000 1.pkf
+sickvideo/normal_merge_1/Conformed Files/normal_2 44100 1 48000 1.wav
+sickvideo/normal_merge_1/Conformed Files/normal_2 44100 1.pkf
+sickvideo/normal_merge_1/Conformed Files/normal_2 44100 1.wav
+sickvideo/normal_merge_1/normal_merge_1.sesx
+sickvideo/normal_merge_1_mixdown.mp3
+sickvideo/normal_merge_2_mixdown.mp3
+sickvideo/sick_final/Conformed Files/exp_sick_1 48000 1.wav
+sickvideo/sick_final/Conformed Files/exp_sick_2 48000 1.wav
+sickvideo/sick_final/Conformed Files/exp_sick_3 48000 1.wav
+sickvideo/sick_final/Conformed Files/exp_sick_4 48000 1.wav
+sickvideo/sick_final/sick_final.sesx
+sickvideo/sick_final_mixdown.mp3
+sickvideo/sick_merge_1/sick_merge_1.sesx
+sickvideo/sick_merge_1_mixdown.mp3
+sickvideo/source files/normal_1.mp3
+sickvideo/source files/normal_1.mp4
+sickvideo/source files/sick_sound.mp3
+sickvideo/source files/sick_sound.mp4
+sickvideo/source files/sick_sound_original.mp3
