@@ -1,0 +1,14 @@
+>"G:\Arun\Arun\Phd\PoultryData\ffmpeg\ffmpeg.exe" -i "G:\Arun\Arun\Phd\PoultryData\normal video\20171022_114843-002.mp4" -ss 00:09:44.000 -t 00:10:35.000 -vf fps=1 "G:\Arun\Arun\Phd\PoultryData\normal video\images\out%d.bmp"
+
+"G:\Arun\Arun\Phd\PoultryData\ffmpeg\ffmpeg.exe" -i "G:\Arun\Arun\Phd\PoultryData\normal video\images\out13.bmp" -vf  "crop=1000:700:850:300" "G:\Arun\Arun\Phd\PoultryData\normal video\images\croped\out13.bmp"
+
+
+"G:\Arun\Arun\Phd\PoultryData\ffmpeg\ffmpeg.exe" -i "G:\Arun\Arun\Phd\PoultryData\normal video\images\out13.bmp" -vf scale='if(gt(iw,ih),-1,150)':'if(gt(iw,ih),150,-1)',crop=150:150:850:300 "G:\Arun\Arun\Phd\PoultryData\normal video\images\croped\out13.bmp"
+"G:\Arun\Arun\Phd\PoultryData\ffmpeg\ffmpeg.exe" -i "G:\Arun\Arun\Phd\PoultryData\normal video\images\out14.bmp" -vf scale='if(gt(iw,ih),-1,150)':'if(gt(iw,ih),150,-1)',crop=150:150:850:300 "G:\Arun\Arun\Phd\PoultryData\normal video\images\croped\out14.bmp"
+
+"G:\Arun\Arun\Phd\PoultryData\ffmpeg\ffmpeg.exe" -i "G:\Arun\Arun\Phd\PoultryData\normal video\images\out15.bmp" -vf scale='if(gt(iw,ih),-1,150)':'if(gt(iw,ih),150,-1)',crop=150:150:850:300 "G:\Arun\Arun\Phd\PoultryData\normal video\images\croped\out15.bmp"
+
+"G:\Arun\Arun\Phd\PoultryData\ffmpeg\ffmpeg.exe" -i "G:\Arun\Arun\Phd\PoultryData\normal video\images\out44.bmp" -vf scale='if(gt(iw,ih),-1,150)':'if(gt(iw,ih),150,-1)',crop=150:150:850:300 "G:\Arun\Arun\Phd\PoultryData\normal video\images\croped\out44.bmp"
+
+
+
